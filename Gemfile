@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "github-pages"
+# gem "github-pages"
 
 gem "jekyll-theme-chirpy", "~> 6.3", ">= 6.3.1"
 
